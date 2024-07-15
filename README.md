@@ -1,3 +1,7 @@
+<h1>Hi, I'm AlexJamesDean and I like editing stuff, full credit goes to Simplified Studios.</h1>
+<p>I was just going to edit this on the back end but thought making a fork might be more useful.</p>
+<p>V Full links to those responsible for the overall script down below V</p>
+
 <h1>About Us</h1>
 We're a team with experience in FiveM and UI development, we've played FiveM for thousands of hours, and have a clear understanding of the players needs. That caused us to start Simplified Studios.
 
